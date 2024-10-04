@@ -16,7 +16,7 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "TzuChiaWang"
-          GITHUB_TOKEN: ${{ secrets.ActionSecretToken }} # Ensure this matches the secret name in repository settings  
+          GITHUB_TOKEN: ${{ secrets.ACTIONSECRETSTOKEN }} # Ensure this matches the secret name in repository settings  
 
       - name: GP Security Scan
         uses: whitesource/GitHubPackagesSecurityAction@19.10.2
