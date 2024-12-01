@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/283903ccf54d3e52ee0dadd982c38bda28ce347f)
-2. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/ec09ba1366cfd0c5e27e672a15bdb16db0cb6184)
-3. ➕ Created a new branch [`flutter_2`](https://github.com/ntust-im-iov/ChargeGamification/tree/flutter_2) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
-4. 🗑️ Deleted a branch `flutter_v1` in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
-5. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/9d2f00f682df3545b93d56cf25173cb4766465d8)
-6. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/1d2b3560155706268129c9f7af10327a26cd1f24)
-7. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/236617d463f3e70864a3623b46bbcbe5cc93f8f3)
-8. ➕ Created a new branch [`flutter_v1`](https://github.com/ntust-im-iov/ChargeGamification/tree/flutter_v1) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
-9. 🗑️ Deleted a branch `APP-7--` in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
-10. 🗑️ Deleted a branch `revert-2-APP-7--` in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+1. ➕ Created a new branch `10-建立account畫面` in a private repo
+2. 🆕 Opened an issue in a private repo
+3. ➕ Created a new branch `9-建立主畫面` in a private repo
+4. 🆕 Opened an issue in a private repo
+5. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/e5dd2b136ad7d3fd9b4fbe71642cb418a6bf4dd4)
+6. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/6e243ce075a84fceb89e9b7acff3e23745fc88f2)
+7. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/8096b5efbb0c049b9979bcac563ffc6a7d610d48)
+8. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/6285c4429f2ae0defb0891c440d4a384aa2c13b4)
+9. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/c2cd1d6a7e17b0a45dcb6376d8927e5c3986fcdd)
+10. 📝 Committed to [TzuChiaWang/TextEditor](https://github.com/TzuChiaWang/TextEditor/commit/af0f1d1745792f24298269639f8defbe2c30bcc8)
 <!--END_SECTION:activity-->
